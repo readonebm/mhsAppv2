@@ -23,7 +23,12 @@ namespace mhsAppv2.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Mahasiswa()
         {
             return View();
         }

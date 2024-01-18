@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{A39AF1A1-C188-4206-B32B-9723088BB1D7}|Default">
-  <MonoDevelop.Ide.ItemProperties.mhsAppv2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.mhsAppv2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mhsAppv2/appsettings.json">
+    <Files>
+      <File FileName="mhsAppv2/Startup.cs" Line="31" Column="86" />
+      <File FileName="mhsAppv2/Data/AppDbContext.cs" Line="11" Column="6" />
+      <File FileName="mhsAppv2/appsettings.json" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mhsAppv2" expanded="True">
+            <Node name="mhsAppv2" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
